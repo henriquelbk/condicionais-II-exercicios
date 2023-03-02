@@ -1,6 +1,6 @@
 # Exercício 1
 
-Crie um código que receba um número por **prompt** e verifique se esse número é divisível por 2 **ou** por 3.
+Crie um código que receba um número por **prompt** e verifique se esse número é divisível por 2 **e** por 3.
     
 Faça isso:
     
